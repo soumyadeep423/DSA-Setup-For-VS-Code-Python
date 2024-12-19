@@ -4,7 +4,7 @@ Follow these steps to set up the repository locally and start coding:
 
 ## Step 1: Clone the Repository
 ```bash
-git clone [<link>](https://github.com/soumyadeep423/DSA-Setup-For-VS-Code-Python.git)
+git clone https://github.com/soumyadeep423/DSA-Setup-For-VS-Code-Python.git
 ```
 
 ## Step 2: Open the Repository in VS Code
